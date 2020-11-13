@@ -1,4 +1,4 @@
-/*	Se considera un vector de N numere reale citite dintr-un fisier. Realizati o aplicatie grafica in care, folosind 2 thread-uri, 
+/*	Se considera un vector de N numere reale citite dintr-un fisier. Realizati o aplicatie, tip consola, in care, folosind 2 thread-uri, 
 sa se determine elemntul maxim din subvectorul format din termenii de rang impar ai vectorului initial si 
 elemntul minim din subvectorul format din termenii de rang par ai vectorului intial, precum si rangurile pe care apar aceste elemente in vector.
  */
