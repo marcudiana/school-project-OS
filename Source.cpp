@@ -1,12 +1,6 @@
 /*	Se considera un vector de N numere reale citite dintr-un fisier. Realizati o aplicatie grafica in care, folosind 2 thread-uri, 
 sa se determine elemntul maxim din subvectorul format din termenii de rang impar ai vectorului initial si 
 elemntul minim din subvectorul format din termenii de rang par ai vectorului intial, precum si rangurile pe care apar aceste elemente in vector.
-	Interfata grafica trebuie sa contina urmatoarele elemente grafice :
-	- casete de editare pentru citirea lui N si afisarea vectorului
-	- casete de editare pentru afisarea subvectorilor de rang par si impar
-	- casete de editare pentru afisarea elementului minim, respectiv pozitia acestuia
-	- casete de editare pentru afisarea elementului maxim, respectiv pozitia acestuia
-	- un buton pentru calcul.
  */
 
 #include <iostream>
